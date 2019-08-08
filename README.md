@@ -17,3 +17,12 @@
 - Services
 - Observables & Http
 - Angular Router
+
+
+![image](https://github.com/ttcode10/angularapp/blob/master/screenshots/1.png)
+![image](https://github.com/ttcode10/angularapp/blob/master/screenshots/2.png)
+![image](https://github.com/ttcode10/angularapp/blob/master/screenshots/3.png)
+![image](https://github.com/ttcode10/angularapp/blob/master/screenshots/4.png)
+![image](https://github.com/ttcode10/angularapp/blob/master/screenshots/5.png)
+
+
