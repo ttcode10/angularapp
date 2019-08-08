@@ -1,0 +1,28 @@
+nav {
+    padding: 0px;
+}
+
+.nav-link {
+    padding: 16px;
+}
+
+.navbar-brand {
+    color: #ffffff;
+}
+
+.nav-item a {
+    color: #ffffff;
+}
+
+.nav-item a:hover {
+    color: rgba(255, 255, 255, .6);
+}
+
+.nav-item {
+    display: block;
+    border-bottom: 5px solid transparent;
+}
+
+.active {
+    border-bottom: 5px solid rgba(255, 255, 255, .8);
+}
